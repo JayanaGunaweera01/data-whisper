@@ -21,6 +21,8 @@ That's exactly what I built. Meet **Ballerina Data Whisper** — your AI-powered
 
 ## Quick Start: Playing with UI
 
+![GUI Interface](images/GUI.jpg)
+
 ### 1. Clone the repository
 
 ```bash
@@ -71,6 +73,8 @@ http://localhost:8080
 ---
 
 ## Quick Start: Playing with Terminal
+
+![CLI Interface](images/CLI.jpg)
 
 ### Prerequisites
 
