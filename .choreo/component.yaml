@@ -1,0 +1,11 @@
+schemaVersion: "1.2"
+endpoints:
+    - name: csv-analytics-api-084
+      displayName: CSV Analytics API
+      service:
+        basePath: /csv-chat
+        port: 9090
+      type: REST
+      networkVisibilities:
+        - Project
+        - Public
