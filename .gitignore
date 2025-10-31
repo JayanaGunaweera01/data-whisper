@@ -1,0 +1,18 @@
+# Ballerina build artifacts
+target/
+generated/
+.ballerina/
+
+# Configuration files
+Config.toml
+
+# Java artifacts
+*.jar
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# macOS system files
+.DS_Store

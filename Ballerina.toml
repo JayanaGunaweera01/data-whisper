@@ -1,0 +1,13 @@
+[package]
+org = "user"
+name = "csv_analytics_chatbot"
+version = "0.1.0"
+distribution = "2201.13.0-m3"
+
+[build-options]
+observabilityIncluded = true
+
+[[dependency]]
+org = "ballerinax"
+name = "openai.chat"
+version = "4.0.0"

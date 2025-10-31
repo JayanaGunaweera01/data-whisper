@@ -1,0 +1,9 @@
+# Choreo deployment configuration
+version: 0.1
+
+endpoints:
+  - name: CSV Analytics API
+    port: 9090
+    type: REST
+    networkVisibility: Public
+    context: /csv-chat
