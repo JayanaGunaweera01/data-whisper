@@ -145,8 +145,8 @@ curl -X POST -H "Content-Type: application/json" -d "{\"fileId\":\"YOUR_FILE_ID\
 
 ## Resources
 
-- **Medium Article:** [link]
-- **YouTube Demo:** [link]
+- **Medium Article:** [https://medium.com/@Jayana_Gunaweera/ballerina-csv-whisper-agent-%EF%B8%8F-6f89f357083b]
+- **YouTube Demo:** [https://youtu.be/SVVQGRZKgWY]
 
 ---
 
